@@ -1,0 +1,16 @@
+body {
+  background-color: yellow;
+  margin: 250px;
+}
+
+h1 {
+  color: #d92ff7;
+  font-size: 15px;
+  font-family: helvetica;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  margin: 30px;
+}
